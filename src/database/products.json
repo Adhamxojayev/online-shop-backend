@@ -1,0 +1,34 @@
+[
+    {
+        "productsId": 1,
+        "subCategoryId": 1,
+        "productsName": "apple 5s",
+        "model": "apple",
+        "color": "black",
+        "price": 150
+    },
+    {
+        "productsId": 2,
+        "subCategoryId": 1,
+        "productsName": "redmi 6",
+        "model": "mi",
+        "color": "silver",
+        "price": 120
+    },
+    {
+        "products_id": 3,
+        "subCategoryId": 2,
+        "productsName": "kalish",
+        "model": "salvatini",
+        "color": "black",
+        "price": 100
+    },
+    {
+        "productsId": 4,
+        "subCategoryId": 3,
+        "productsName": "Artel smart 43",
+        "model": "artel",
+        "color": "black",
+        "price": 350
+    }
+]
